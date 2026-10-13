@@ -1,0 +1,74 @@
+[
+  {
+    "group": "dev",
+    "task": "empty_input",
+    "passed": true,
+    "attempts": 1,
+    "seconds": 7.7,
+    "error": ""
+  },
+  {
+    "group": "dev",
+    "task": "integer_division",
+    "passed": true,
+    "attempts": 1,
+    "seconds": 6.0,
+    "error": ""
+  },
+  {
+    "group": "dev",
+    "task": "multi_file",
+    "passed": true,
+    "attempts": 1,
+    "seconds": 5.4,
+    "error": ""
+  },
+  {
+    "group": "dev",
+    "task": "mutable_default",
+    "passed": true,
+    "attempts": 1,
+    "seconds": 6.2,
+    "error": ""
+  },
+  {
+    "group": "dev",
+    "task": "range_off_by_one",
+    "passed": true,
+    "attempts": 1,
+    "seconds": 5.8,
+    "error": ""
+  },
+  {
+    "group": "dev",
+    "task": "wrong_operator",
+    "passed": true,
+    "attempts": 1,
+    "seconds": 6.1,
+    "error": ""
+  },
+  {
+    "group": "heldout",
+    "task": "binary_search",
+    "passed": true,
+    "attempts": 1,
+    "seconds": 6.1,
+    "error": ""
+  },
+  {
+    "group": "heldout",
+    "task": "fizzbuzz_order",
+    "passed": true,
+    "attempts": 1,
+    "seconds": 6.8,
+    "error": ""
+  },
+  {
+    "group": "heldout",
+    "task": "vowel_count",
+    "passed": true,
+    "attempts": 1,
+    "seconds": 6.5,
+    "error": ""
+  }
+]
